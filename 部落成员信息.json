@@ -1,0 +1,986 @@
+{
+  "items": [
+    {
+      "tag": "#QRRQ2LQQY",
+      "name": "Alpha",
+      "role": "member",
+      "expLevel": 108,
+      "league": {
+        "id": 29000012,
+        "name": "Crystal League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/kSfTyNNVSvogX3dMvpFUTt72VW74w6vEsEFuuOV4osQ.png"
+        }
+      },
+      "trophies": 2453,
+      "builderBaseTrophies": 2237,
+      "versusTrophies": 2237,
+      "clanRank": 1,
+      "previousClanRank": 0,
+      "donations": 107,
+      "donationsReceived": 35,
+      "builderBaseLeague": {
+        "id": 44000021,
+        "name": "Brass League II"
+      }
+    },
+    {
+      "tag": "#G8CC2QUU9",
+      "name": "万象无形",
+      "role": "coLeader",
+      "expLevel": 41,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1116,
+      "builderBaseTrophies": 1618,
+      "versusTrophies": 1618,
+      "clanRank": 2,
+      "previousClanRank": 10,
+      "donations": 0,
+      "donationsReceived": 0,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000011
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000016,
+        "name": "Copper League IV"
+      }
+    },
+    {
+      "tag": "#G2VLQYG8C",
+      "name": "塔罗牌-教皇-5",
+      "role": "member",
+      "expLevel": 42,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1101,
+      "builderBaseTrophies": 239,
+      "versusTrophies": 239,
+      "clanRank": 3,
+      "previousClanRank": 0,
+      "donations": 40,
+      "donationsReceived": 32,
+      "builderBaseLeague": {
+        "id": 44000002,
+        "name": "Wood League III"
+      }
+    },
+    {
+      "tag": "#G9YQCGGCU",
+      "name": "塔罗牌-隐者-9",
+      "role": "member",
+      "expLevel": 40,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1050,
+      "builderBaseTrophies": 120,
+      "versusTrophies": 120,
+      "clanRank": 4,
+      "previousClanRank": 0,
+      "donations": 121,
+      "donationsReceived": 160,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#GPPYG29PC",
+      "name": "塔罗牌-星星-17",
+      "role": "member",
+      "expLevel": 36,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1040,
+      "builderBaseTrophies": 80,
+      "versusTrophies": 80,
+      "clanRank": 5,
+      "previousClanRank": 16,
+      "donations": 125,
+      "donationsReceived": 184,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#G8C20Q9LJ",
+      "name": "塔罗牌-命运之轮-10",
+      "role": "member",
+      "expLevel": 38,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1016,
+      "builderBaseTrophies": 160,
+      "versusTrophies": 160,
+      "clanRank": 6,
+      "previousClanRank": 0,
+      "donations": 170,
+      "donationsReceived": 228,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#GPPQ08VCV",
+      "name": "塔罗牌-愚者-0",
+      "role": "member",
+      "expLevel": 42,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 995,
+      "builderBaseTrophies": 126,
+      "versusTrophies": 126,
+      "clanRank": 7,
+      "previousClanRank": 0,
+      "donations": 26,
+      "donationsReceived": 30,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#GPPYQJYYV",
+      "name": "塔罗牌-塔-16",
+      "role": "member",
+      "expLevel": 37,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 994,
+      "builderBaseTrophies": 160,
+      "versusTrophies": 160,
+      "clanRank": 8,
+      "previousClanRank": 17,
+      "donations": 136,
+      "donationsReceived": 105,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#GYUVR9L0Q",
+      "name": "塔罗牌-皇帝-4",
+      "role": "member",
+      "expLevel": 42,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 984,
+      "builderBaseTrophies": 80,
+      "versusTrophies": 80,
+      "clanRank": 9,
+      "previousClanRank": 0,
+      "donations": 76,
+      "donationsReceived": 40,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000053
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#G820909J9",
+      "name": "塔罗牌-力量-8",
+      "role": "member",
+      "expLevel": 35,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 980,
+      "builderBaseTrophies": 160,
+      "versusTrophies": 160,
+      "clanRank": 10,
+      "previousClanRank": 0,
+      "donations": 194,
+      "donationsReceived": 120,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#G92PJ0C0Q",
+      "name": "ywp",
+      "role": "coLeader",
+      "expLevel": 35,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 974,
+      "builderBaseTrophies": 926,
+      "versusTrophies": 926,
+      "clanRank": 11,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 20,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000009,
+        "name": "Clay League I"
+      }
+    },
+    {
+      "tag": "#GLU0URV80",
+      "name": "塔罗牌-审判-20",
+      "role": "member",
+      "expLevel": 36,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 972,
+      "builderBaseTrophies": 120,
+      "versusTrophies": 120,
+      "clanRank": 12,
+      "previousClanRank": 11,
+      "donations": 120,
+      "donationsReceived": 202,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#G2VQQRVJL",
+      "name": "塔罗牌-战车-7",
+      "role": "member",
+      "expLevel": 40,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 959,
+      "builderBaseTrophies": 120,
+      "versusTrophies": 120,
+      "clanRank": 13,
+      "previousClanRank": 0,
+      "donations": 162,
+      "donationsReceived": 150,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#GPP2PLRV9",
+      "name": "塔罗牌-世界-21",
+      "role": "member",
+      "expLevel": 35,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 928,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 14,
+      "previousClanRank": 0,
+      "donations": 64,
+      "donationsReceived": 31,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GPGYJ0VY8",
+      "name": "塔罗牌-恶魔-15",
+      "role": "member",
+      "expLevel": 34,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 924,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 15,
+      "previousClanRank": 21,
+      "donations": 146,
+      "donationsReceived": 120,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GLLV28Y0C",
+      "name": "塔罗牌-女祭司-2",
+      "role": "member",
+      "expLevel": 42,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 917,
+      "builderBaseTrophies": 79,
+      "versusTrophies": 79,
+      "clanRank": 16,
+      "previousClanRank": 0,
+      "donations": 25,
+      "donationsReceived": 35,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#G2VY092PR",
+      "name": "塔罗牌-女皇-3",
+      "role": "member",
+      "expLevel": 41,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 910,
+      "builderBaseTrophies": 83,
+      "versusTrophies": 83,
+      "clanRank": 17,
+      "previousClanRank": 0,
+      "donations": 30,
+      "donationsReceived": 76,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GP0C029R8",
+      "name": "塔罗牌-节制-14",
+      "role": "member",
+      "expLevel": 37,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 902,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 18,
+      "previousClanRank": 29,
+      "donations": 152,
+      "donationsReceived": 160,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GLQVCQ0QG",
+      "name": "塔罗牌-月亮-18",
+      "role": "member",
+      "expLevel": 36,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 897,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 19,
+      "previousClanRank": 31,
+      "donations": 166,
+      "donationsReceived": 120,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GLLV00PYR",
+      "name": "Shadow Garden",
+      "role": "leader",
+      "expLevel": 38,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 892,
+      "builderBaseTrophies": 344,
+      "versusTrophies": 344,
+      "clanRank": 20,
+      "previousClanRank": 25,
+      "donations": 308,
+      "donationsReceived": 309,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000053
+          },
+          {
+            "type": "roof",
+            "id": 82000011
+          },
+          {
+            "type": "decoration",
+            "id": 82000060
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000003,
+        "name": "Wood League II"
+      }
+    },
+    {
+      "tag": "#G8CP9PV0V",
+      "name": "塔罗牌-死神-13",
+      "role": "member",
+      "expLevel": 37,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 881,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 21,
+      "previousClanRank": 20,
+      "donations": 174,
+      "donationsReceived": 135,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GLU9JJ9GV",
+      "name": "塔罗牌-太阳-19",
+      "role": "member",
+      "expLevel": 34,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 870,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 22,
+      "previousClanRank": 28,
+      "donations": 131,
+      "donationsReceived": 120,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GLUPLVJLL",
+      "name": "塔罗牌-倒吊人-12",
+      "role": "member",
+      "expLevel": 38,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 865,
+      "builderBaseTrophies": 40,
+      "versusTrophies": 40,
+      "clanRank": 23,
+      "previousClanRank": 0,
+      "donations": 180,
+      "donationsReceived": 179,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    },
+    {
+      "tag": "#GP989CC0Q",
+      "name": "塔罗牌-恋人-6",
+      "role": "member",
+      "expLevel": 40,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 861,
+      "builderBaseTrophies": 288,
+      "versusTrophies": 288,
+      "clanRank": 24,
+      "previousClanRank": 0,
+      "donations": 186,
+      "donationsReceived": 180,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000002,
+        "name": "Wood League III"
+      }
+    },
+    {
+      "tag": "#GPQ9LVR9G",
+      "name": "xsbyjl",
+      "role": "member",
+      "expLevel": 41,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 852,
+      "builderBaseTrophies": 1377,
+      "versusTrophies": 1377,
+      "clanRank": 25,
+      "previousClanRank": 26,
+      "donations": 0,
+      "donationsReceived": 490,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000013,
+        "name": "Stone League II"
+      }
+    },
+    {
+      "tag": "#G2V2QGPGJ",
+      "name": "塔罗牌-正义-11",
+      "role": "member",
+      "expLevel": 37,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 847,
+      "builderBaseTrophies": 199,
+      "versusTrophies": 199,
+      "clanRank": 26,
+      "previousClanRank": 0,
+      "donations": 178,
+      "donationsReceived": 140,
+      "builderBaseLeague": {
+        "id": 44000001,
+        "name": "Wood League IV"
+      }
+    },
+    {
+      "tag": "#G9Y92JGL8",
+      "name": "塔罗牌-魔术师-1",
+      "role": "member",
+      "expLevel": 42,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 803,
+      "builderBaseTrophies": 239,
+      "versusTrophies": 239,
+      "clanRank": 27,
+      "previousClanRank": 0,
+      "donations": 158,
+      "donationsReceived": 231,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000000
+          },
+          {
+            "type": "walls",
+            "id": 82000048
+          },
+          {
+            "type": "roof",
+            "id": 82000009
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000002,
+        "name": "Wood League III"
+      }
+    },
+    {
+      "tag": "#GPUURLGUQ",
+      "name": "空无",
+      "role": "admin",
+      "expLevel": 25,
+      "league": {
+        "id": 29000003,
+        "name": "Bronze League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+        }
+      },
+      "trophies": 724,
+      "builderBaseTrophies": 434,
+      "versusTrophies": 434,
+      "clanRank": 28,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000004,
+        "name": "Wood League I"
+      }
+    },
+    {
+      "tag": "#G0CLLG9C8",
+      "name": "上官鸿信",
+      "role": "member",
+      "expLevel": 28,
+      "league": {
+        "id": 29000003,
+        "name": "Bronze League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+        }
+      },
+      "trophies": 653,
+      "builderBaseTrophies": 1112,
+      "versusTrophies": 1112,
+      "clanRank": 29,
+      "previousClanRank": 33,
+      "donations": 0,
+      "donationsReceived": 175,
+      "builderBaseLeague": {
+        "id": 44000011,
+        "name": "Stone League IV"
+      }
+    },
+    {
+      "tag": "#QC20JCV8Y",
+      "name": "坤坤",
+      "role": "member",
+      "expLevel": 12,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 520,
+      "builderBaseTrophies": 0,
+      "versusTrophies": 0,
+      "clanRank": 30,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "builderBaseLeague": {
+        "id": 44000000,
+        "name": "Wood League V"
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}
